@@ -33,7 +33,7 @@ let Players : [Player] = [
 
 struct ContentView : View {
     var body: some View {
-        Text("Hello World")
+        PlayersView()
     }
 }
 
